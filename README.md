@@ -1,2 +1,2 @@
-# voice-changer
-Voice changer
+# Voice changer
+Run: `python main.py`
